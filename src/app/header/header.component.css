@@ -1,0 +1,33 @@
+.header{
+    height: 20%;
+    width: 100%;
+background-color: #e0c693;
+position: absolute;
+
+}
+.title{
+    font-family: Engravers MT;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 50px;
+   color: #ad031c;
+}
+.decription{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    color: #ad031c;
+}
+img{
+width: 30%;
+height:100%;
+position:absolute;
+left: 0%;
+}
+/*#butt{
+      position: relative;
+    
+    right:0%;
+    
+}*/

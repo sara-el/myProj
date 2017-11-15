@@ -1,0 +1,22 @@
+.aside{
+    width: 20%;
+    height: 60%;
+    background-color: #e4cda7;
+    position: absolute;
+    right: 1%;
+    top:30%
+}
+#img1{
+    width: 90%;
+    height: 45%;
+    position: absolute;
+    right: 5%;
+    top: 3%;
+}
+#img2{
+    width: 90%;
+    height: 45%;
+    position: absolute;
+    right: 5%;
+    top: 53%;
+}

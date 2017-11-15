@@ -1,0 +1,31 @@
+.main{
+    height: 60%;
+    width: 80%;
+    background-color: #f3e8c0;
+    position: absolute;
+    top:30%
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width:20% ;
+    height: 30%;
+    position: absolute;
+    left: 1%;
+    bottom:1%;
+}
+#p1{
+    
+    position: absolute;
+    left: 1%;
+}
+#p2{
+   
+    position: absolute;
+    top:40%;
+    left: 1%;
+}
+.i{
+    color: #ad031c;
+}
